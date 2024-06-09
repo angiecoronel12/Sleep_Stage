@@ -5,3 +5,4 @@ Enlace a la base de datos:
 https://www.physionet.org/content/sleep-edfx/1.0.0/#files-panel
 
 Enlace al video del proyecto (Deep learning para posgrados UdeA):
+https://youtu.be/vKLyIihdthE 
